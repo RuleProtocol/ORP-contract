@@ -1,0 +1,19 @@
+node_modules
+.env
+coverage
+coverage.json
+.vscode
+
+#Hardhat files
+/.idea/
+*.DS_Store
+/artifacts/*.dbg.json
+/artifacts/build-info/*
+*.dbg.json
+/cache/
+#/artifacts/
+#/typechain/
+31337
+/networks.ts
+package-lock.json
+/deployments/
